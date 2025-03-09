@@ -7,7 +7,7 @@
 Welcome to my Github page! My name is Zihan Mei and I am currently working towards a dual Bachelor’s degree in Electronics & Electrical Engineering with Information Engineering from the University of Electronic Science and Technology of China and the University of Glasgow!  
 
 #### Things I am currently working on: 
-- In February, I submitted two papers to ACM SIGKDD 2025, where I am the first author of one and the second author of the other. Looking forward to their acceptance!
+- In February, I submitted two papers to ACM SIGKDD 2025. Looking forward to their acceptance!
 - I am deepening my understanding of the fundamentals of statistical learning, strengthening my knowledge of statistics and theories related to linear regression.
 - I am seeking summer internship opportunities in both research laboratories and high-tech companies. If you are interested in my experience and skills, feel free to reach out via email!
 
